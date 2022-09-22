@@ -1,2 +1,3 @@
-# swift_swipe-actions-watch
- 
+# Demostración de Swipe Action en WatchOS
+
+![Image](image.gif)
